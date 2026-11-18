@@ -14,7 +14,7 @@ Why? Following ensures you're connected to your instructor’s resources and upd
 
 After creating your account, perform these actions:
 
-Follow this Repository: [EpiPandit/MPM_200](https://github.com/EpiPandit/MPM_200.git)
+Follow this Repository: [EpiPandit/MPM_200_2026]([https://github.com/EpiPandit/MPM_200.git](https://github.com/EpiPandit/MPM_200_2026))
 
 Follow your Instructor’s Accounts:
 
