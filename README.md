@@ -15,11 +15,12 @@ MPM 200 — Introduction to Information Management for Epidemiologists (1 unit) 
 - Setting up and using `Jupyter` and `Anaconda` environments
 - Best practices for collaborative research and reproducibility
 
-## Session 8: Collaborative Analysis with Version Control Using GitHub
+## Session 9: Collaborative Analysis with Version Control Using GitHub
 
 ### Objectives
 - **Version Control with GitHub**: Learn how to collaboratively work on analyses using version control systems, specifically GitHub.
 - **GitHub Desktop**: Understand key concepts of GitHub using the Desktop application.
+- ** How to use Github and Google Colab together.
 
 ### Key Topics
 - Creating and managing repositories
